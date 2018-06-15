@@ -1,0 +1,36 @@
+#crystal_1 {
+    background: url("../images/amethyst.jpg");
+    background-size: 100px;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    background-repeat: no-repeat;
+}
+
+#crystal_2 {
+    background: url("../images/Crystal1.jpg");
+    background-size: 100px;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    background-repeat: no-repeat;
+}
+
+#crystal_3 {
+    background: url("../images/crystalGeneric.jpg");
+    background-size: 100px;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    background-repeat: no-repeat;
+}
+
+#crystal_4 {
+    background: url("../images/crystalRare.jpg");
+    background-size: 100px;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    background-repeat: no-repeat;
+}
+
