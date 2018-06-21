@@ -1,3 +1,16 @@
+
+
+body{
+    background-color: steelblue ;
+    text-align: center;
+    align-content: center
+}
+
+.jumbotron{
+    background-color: black;
+    color: wheat;
+}
+
 #crystal_1 {
     background: url("../images/amethyst.jpg");
     background-size: 100px;
